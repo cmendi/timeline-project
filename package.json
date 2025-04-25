@@ -3,7 +3,7 @@
 	"private": true,
 	"version": "0.0.0",
 	"type": "module",
-	"homepage": "https://mendi.github.io/timeline-project",
+	"homepage": "https://cmendi.github.io/timeline-project",
 	"scripts": {
 		"dev": "vite",
 		"build": "tsc -b && vite build",
